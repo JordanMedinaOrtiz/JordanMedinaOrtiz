@@ -4,10 +4,10 @@
 </div>
 
 <div id="text" align="left">
-  Soy un apasionado desarrollador de software con sede en San Luis Potosí, México. Mi enfoque principal es la creación de soluciones de software robustas y eficientes. Tengo una sólida experiencia en la programación y me encanta asumir nuevos desafíos.
-  Mi compromiso con el código limpio y la eficiencia se refleja en mi trabajo, donde busco constantemente formas de mejorar y adoptar nuevas tecnologías para elevar la calidad de mis proyectos.
-  Te invito a explorar mi repositorio, donde puedes ver algunos de mis proyectos anteriores. 
-  Estoy siempre abierto a conversaciones sobre tecnología, colaboraciones interesantes o cualquier pregunta que puedas tener. Estoy emocionado por la posibilidad de unirme a un    equipo apasionado y enfrentar nuevos desafíos juntos, construyendo soluciones innovadoras   y exitosa.
+  <p>Soy un apasionado desarrollador de software con sede en San Luis Potosí, México. Mi enfoque principal es la creación de soluciones de software robustas y eficientes. Tengo una sólida experiencia en la programación y me encanta asumir nuevos desafíos.</p>
+  <p>Mi compromiso con el código limpio y la eficiencia se refleja en mi trabajo, donde busco constantemente formas de mejorar y adoptar nuevas tecnologías para elevar la calidad de mis proyectos.</p>
+  <p>Te invito a explorar mi repositorio, donde puedes ver algunos de mis proyectos anteriores. 
+  Estoy siempre abierto a conversaciones sobre tecnología, colaboraciones interesantes o cualquier pregunta que puedas tener. Estoy emocionado por la posibilidad de unirme a un equipo apasionado y enfrentar nuevos desafíos juntos, construyendo soluciones innovadoras y exitosa.</p>
 </div>
 
 ---
