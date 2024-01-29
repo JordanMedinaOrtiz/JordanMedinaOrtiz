@@ -3,6 +3,10 @@
   <p align="center">👋 ¡Hola! Me llamo Jordan, estudiante de ingeniería en IT con una gran pasión por el desarrollo web. ✨  Mi enfoque principal es la creación de soluciones de software robustas y eficientes. 🚀 Mi constante exploración de nuevas tecnologías y marcos de trabajo refleja mi compromiso con la innovación y la resolución de desafíos en este emocionante campo. ¡Bienvenido a mi mundo de codificación! 👨‍💻</p>
 </div>
 
+<br>
+
+<img align="right" alt="GIF" src="https://github.com/JordanMedinaOrtiz/JordanMedinaOrtiz/blob/main/assets/gif.gif" width="260px">
+
 <div id="text" align="left">
   <p>Soy un apasionado desarrollador de software con sede en San Luis Potosí, México. Tengo una sólida experiencia en la programación y me encanta asumir nuevos desafíos.</p>
   <p>Mi compromiso con el código limpio y la eficiencia se refleja en mi trabajo, donde busco constantemente formas de mejorar y adoptar nuevas tecnologías para elevar la calidad de mis proyectos.</p>
@@ -10,7 +14,8 @@
   Estoy siempre abierto a conversaciones sobre tecnología, colaboraciones interesantes o cualquier pregunta que puedas tener. Estoy emocionado por la posibilidad de unirme a un equipo apasionado y enfrentar nuevos desafíos juntos, construyendo soluciones innovadoras y exitosa.</p>
 </div>
 
----
+<br>
+
 ### 👨‍💻 Sobre Mi:
 
 - 📝 Me gusta compartir mis conocimientos.
