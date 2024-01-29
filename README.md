@@ -1,30 +1,22 @@
-<div id="header" align="center">
-  <img src="https://github.com/JordanMedinaOrtiz/JordanMedinaOrtiz/blob/main/assets/portada.png" width="90%">
-  <p align="center">👋 ¡Hola! Me llamo Jordan, estudiante de ingeniería en IT con una gran pasión por el desarrollo web. ✨  Mi enfoque principal es la creación de soluciones de software robustas y eficientes. 🚀 Mi constante exploración de nuevas tecnologías y marcos de trabajo refleja mi compromiso con la innovación y la resolución de desafíos en este emocionante campo. ¡Bienvenido a mi mundo de codificación! 👨‍💻</p>
-</div>
+![Banner-dark-mode](https://github.com/JordanMedinaOrtiz/JordanMedinaOrtiz/blob/main/assets/portada.png)
+
+<p align="center">👋 ¡Hola! Me llamo Jordan, estudiante de ingeniería en IT con una gran pasión por el desarrollo web. ✨  Mi enfoque principal es la creación de soluciones de software robustas y eficientes. 🚀 Mi constante exploración de nuevas tecnologías y marcos de trabajo refleja mi compromiso con la innovación y la resolución de desafíos en este emocionante campo. ¡Bienvenido a mi mundo de codificación! 👨‍💻</p>
+
+##
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/JordanMedinaOrtiz/JordanMedinaOrtiz/blob/main/assets/gif.gif" width="260px">
-
-<div id="text" align="left">
-  <p>Soy un apasionado desarrollador de software con sede en San Luis Potosí, México. Tengo una sólida experiencia en la programación y me encanta asumir nuevos desafíos.</p>
-  <p>Mi compromiso con el código limpio y la eficiencia se refleja en mi trabajo, donde busco constantemente formas de mejorar y adoptar nuevas tecnologías para elevar la calidad de mis proyectos.</p>
-  <p>Te invito a explorar mi repositorio, donde puedes ver algunos de mis proyectos anteriores. 
-  Estoy siempre abierto a conversaciones sobre tecnología, colaboraciones interesantes o cualquier pregunta que puedas tener. Estoy emocionado por la posibilidad de unirme a un equipo apasionado y enfrentar nuevos desafíos juntos, construyendo soluciones innovadoras y exitosa.</p>
-</div>
-
-<br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhpZDlzbWplNWp1OHdsbHFnaW5kbWI3eGptbWU2NW0wM3B2eWVlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="260px">
 
 ### 👨‍💻 Sobre Mi:
 
+- 🧨 Soy un apasionado desarrollador de software con sede en San Luis Potosí, México. Tengo una sólida experiencia en la programación y me encanta asumir nuevos desafíos.
 - 📝 Me gusta compartir mis conocimientos.
+- 🚀 Mi compromiso con el código limpio y la eficiencia se refleja en mi trabajo, donde busco constantemente formas de mejorar y adoptar nuevas tecnologías para elevar la calidad de mis proyectos.
+- 📁 Te invito a explorar mi repositorio, donde puedes ver algunos de mis proyectos anteriores.
+- 📫 Estoy siempre abierto a conversaciones sobre tecnología, colaboraciones interesantes o cualquier pregunta que puedas tener. Estoy emocionado por la posibilidad de unirme a un equipo apasionado y enfrentar nuevos desafíos juntos, construyendo soluciones innovadoras y exitosa.
 
-- 💬 Preguntame sobre **C, CSS, SASS, Tailwind, JavaScript**
-
-- 📫 Contactame por: **jordanmedina49@hotmail.com**
-
-- 🌐 Mi portafolio: [Jordan Medina Ortiz]()
+#
 
 <div align="left">
   <h3>🔨 Lenguajes y Herramietas: </h1>
