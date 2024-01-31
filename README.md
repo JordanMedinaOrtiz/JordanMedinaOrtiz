@@ -85,6 +85,7 @@
 <div align="center">
   
 [![Outlock: Jordan Medina Ortiz](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:jordanmedina49@hotmail.com)](mailto:jordanmedina49@hotmail.com)&nbsp;
+[![Instagram: Jordan Medina Ortiz](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jordanmedina_49/)](https://www.instagram.com/jordanmedina_49/)&nbsp;
 [![Twitter: JordanMedinaDEV](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/JordanMedinaDEV)](https://twitter.com/JordanMedinaDEV)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/JordanMedinaOrtiz)](https://www.frontendmentor.io/profile/JordanMedinaOrtiz)&nbsp;
 [![Linkedin: Jordan Medina Ortiz](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordan-medina-ortiz-618b0b25b/)](https://www.linkedin.com/in/jordan-medina-ortiz-618b0b25b/)&nbsp;
