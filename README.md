@@ -6,6 +6,7 @@
 
 <br>
 
+<br clear="both">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhpZDlzbWplNWp1OHdsbHFnaW5kbWI3eGptbWU2NW0wM3B2eWVlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="260px">
 
 ### 👨‍💻 Sobre Mi:
@@ -120,9 +121,6 @@
 </p>
 </details>
 
-
-</details>
-
 <details>
 <summary><b>⚡ Estadísticas Públicas de Github</b></summary>
 <br>
@@ -130,5 +128,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=JordanMedinaOrtiz&show_icons=true&theme=radical&count_private=true" alt="JordanMedinaOrtiz" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanMedinaOrtiz&layout=compact&theme=radical" alt="JordanMedinaOrtiz" height="165">
 </p>
 </details>
+
+<img src="https://raw.githubusercontent.com/JordanMedinaOrtiz/JordanMedinaOrtiz/output/snake.svg" alt="Snake animation" />
 
 <h6 align="center">Enséñame que te gusta mi trabajo dándole 🌟 a mis repositorios.</h6>
