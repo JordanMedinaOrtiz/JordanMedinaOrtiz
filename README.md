@@ -1,6 +1,10 @@
-![Banner-dark-mode](https://github.com/JordanMedinaOrtiz/JordanMedinaOrtiz/blob/main/assets/portada.png)
+![Banner-dark-mode](https://github.com/JordanMedinaOrtiz/JordanMedinaOrtiz/blob/main/assets/banner.png)
 
-<p align="center">👋 ¡Hola! Soy estudiante de Ingeniería en IT, apasionado por el desarrollo web y el desarrollo de videojuegos. 🎮✨ Tengo un enfoque especial en frontend y habilidades en full stack que abarcan backend y bases de datos. 💻📚 Destaco en JavaScript, Java, C y C++, y me comprometo con el aprendizaje continuo y la innovación tecnológica. 🚀 Tengo experiencia en desarrollo web, frontend, backend y desarrollo de videojuegos, lo que refleja mi dedicación al avance del desarrollo de software. 👨‍💻🌐</p>
+<p align="center">👋 ¡Hola! Soy estudiante de Ingeniería en Tecnologías de la Información, apasionado por el desarrollo web y la creación de videojuegos. 🎮✨ Mi especialidad está en el desarrollo frontend, aunque también tengo habilidades full stack que abarcan backend y bases de datos. 💻📚
+
+🔧 Domino lenguajes como JavaScript, Java, C, y C++, y estoy comprometido con el aprendizaje continuo y la innovación tecnológica. 🚀 Mi experiencia incluye proyectos en desarrollo web y videojuegos, donde he demostrado adaptabilidad y dedicación al avance del software. 👨‍💻🌐
+
+🌍 Aspiro a formar parte de entornos profesionales globales, contribuyendo con mis habilidades para crear soluciones innovadoras y de alto impacto. 💡✨</p>
 
 ##
 
