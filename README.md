@@ -1,10 +1,8 @@
 ![Banner-dark-mode](https://github.com/JordanMedinaOrtiz/JordanMedinaOrtiz/blob/main/assets/banner.png)
 
-<p align="left">👋 ¡Hola! Soy estudiante de Ingeniería en Tecnologías de la Información, apasionado por el desarrollo web y la creación de videojuegos. 🎮✨ Mi especialidad está en el desarrollo frontend, aunque también tengo habilidades full stack que abarcan backend y bases de datos. 💻📚
+# 👋 Hello, I'm Jordan Medina Ortiz
 
-🔧 Domino lenguajes como JavaScript, Java, C, y C++, y estoy comprometido con el aprendizaje continuo y la innovación tecnológica. 🚀 Mi experiencia incluye proyectos en desarrollo web y videojuegos, donde he demostrado adaptabilidad y dedicación al avance del software. 👨‍💻🌐
-
-🌍 Aspiro a formar parte de entornos profesionales globales, contribuyendo con mis habilidades para crear soluciones innovadoras y de alto impacto. 💡✨</p>
+🎓 I'm an Information Technology Engineering student from San Luis Potosí, Mexico, passionate about **web development** and **video game creation**. My main focus is **frontend development**, but I also have **full-stack capabilities** that cover backend logic, databases, and scalable system design.
 
 ##
 
@@ -13,13 +11,13 @@
 <br clear="both">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhpZDlzbWplNWp1OHdsbHFnaW5kbWI3eGptbWU2NW0wM3B2eWVlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="260px">
 
-### 👨‍💻 Sobre Mi:
+### 💼 About Me
 
-- 🧨 Soy un apasionado desarrollador de software con sede en San Luis Potosí, México. Tengo una sólida experiencia en la programación y me encanta asumir nuevos desafíos.
-- 📝 Me gusta compartir mis conocimientos.
-- 🚀 Mi compromiso con el código limpio y la eficiencia se refleja en mi trabajo, donde busco constantemente formas de mejorar y adoptar nuevas tecnologías para elevar la calidad de mis proyectos.
-- 📁 Te invito a explorar mi repositorio, donde puedes ver algunos de mis proyectos anteriores.
-- 📫 Estoy siempre abierto a conversaciones sobre tecnología, colaboraciones interesantes o cualquier pregunta que puedas tener. Estoy emocionado por la posibilidad de unirme a un equipo apasionado y enfrentar nuevos desafíos juntos, construyendo soluciones innovadoras y exitosa.
+- 🔭 I currently build modern websites, applications, and interactive games with a strong emphasis on **clean architecture**, **performance**, and **user experience**.
+- 🚀 I’ve worked on platforms with **AI-powered tools**, **e-commerce systems using Stripe**, and **interactive games** like **Donut Riders**, where I implemented key mechanics, optimized performance, and applied advanced patterns and algorithms (e.g., A* Pathfinding).
+- 🧠 I’m always learning — currently mastering technologies like **Docker**, **Linux**, and advanced DevOps practices.
+- 🎮 In the game industry, I’ve structured systems using design patterns like **Observer**, **State Manager**, **Template Method**, and more.
+- 🌐 I’m committed to building **high-impact solutions** and contributing in **global, innovative environments**.
 
 <div align="center">
   <h2 align="center">🛠️ Lenguajes y Herramientas</h2>
@@ -98,10 +96,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img width="12" />
