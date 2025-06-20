@@ -20,10 +20,10 @@
 - 🌐 I’m committed to building **high-impact solutions** and contributing in **global, innovative environments**.
 
 <div align="center">
-  <h2 align="center">🛠️ Lenguajes y Herramientas</h2>
+  <h2 align="center">🛠️ Languages ​​and tools</h2>
 
   <details open>
-    <summary><b>👨‍💻 Lenguajes de Programación</b></summary>
+    <summary><b>👨‍💻 Programming Languages</b></summary>
     <br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
@@ -70,7 +70,7 @@
   </details>
 
 <details open>
-  <summary><b>🗄️ Bases de Datos</b></summary>
+  <summary><b>🗄️ Databases</b></summary>
   <br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
@@ -81,14 +81,14 @@
   </details>
 
   <details open>
-    <summary><b>🎮 Desarrollo de Videojuegos</b></summary>
+    <summary><b>🎮 Video Game Development</b></summary>
     <br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" height="40" alt="Unity"/>
   </details>
 
   <details open>
-    <summary><b>💻 Softwares y Herramientas</b></summary>
+    <summary><b>💻 Software and Tools</b></summary>
     <br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
@@ -106,11 +106,11 @@
 
 <br>
 
-<h2 align="center">📫 Contactame</h2>
+<h2 align="center">📫 Contact me</h2>
 
-<p align="center"> 📬 Si tienes interés en entablar una conversación o colaborar en proyectos emocionantes, no dudes en contactarme. ¡Estoy siempre abierto a nuevas oportunidades y conexiones! 🚀 ¡Espero con ansias tu mensaje! 👋</p>
+<p align="center"> 📬 If you're interested in starting a conversation or collaborating on exciting projects, please don't hesitate to contact me. I'm always open to new opportunities and connections! 🚀 I look forward to hearing from you! 👋</p>
 
-<p align="center">¡Convirtamos tus ideas en realidad!</p>
+<p align="center">Transforming innovative ideas into powerful digital experiences.</p>
 <br />
 
 <div align="center">
@@ -124,7 +124,7 @@
 </div>
 
 <br>
-<h2 align="center">📊 Mis Estadísticas</h2>
+<h2 align="center">📊 My statistics</h2>
 
 <div align = "center">
 
@@ -133,10 +133,10 @@
 </div>
 <br>
 
-<h2 align="center">👨‍💻 Más sobre mí GitHub</h2>
+<h2 align="center">👨‍💻 More about me GitHub</h2>
 
 <details>
-<summary><b>🔥 Estadísticas de Racha</b></summary>
+<summary><b>🔥 Streak Statistics</b></summary>
 <br>
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=JordanMedinaOrtiz&theme=radical&hide_border=true" alt="JordanMedinaOrtiz" width="390"/>
@@ -144,7 +144,7 @@
 </details>
 
 <details>
-<summary><b>🏆 Trofeos de Github</b></summary>
+<summary><b>🏆 Github Trophies</b></summary>
 <br>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=JordanMedinaOrtiz&theme=discord" alt="JordanMedinaOrtiz" />
@@ -152,11 +152,11 @@
 </details>
 
 <details>
-<summary><b>⚡ Estadísticas Públicas de Github</b></summary>
+<summary><b>⚡ Github Public Statistics</b></summary>
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JordanMedinaOrtiz&show_icons=true&theme=radical&count_private=true" alt="JordanMedinaOrtiz" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanMedinaOrtiz&layout=compact&theme=radical" alt="JordanMedinaOrtiz" height="165">
 </p>
 </details>
 
-<h6 align="center">Enséñame que te gusta mi trabajo dándole 🌟 a mis repositorios.</h6>
+<h6 align="center">Show me that you like my work by liking 🌟 my repositories.</h6>
